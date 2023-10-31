@@ -14,6 +14,7 @@
     - [Setup](#setup)
     - [Install](#install)
   - [👥 Authors](#-authors)
+  - [🔭 Future Features](#-future-features)
   - [🤝 Contributing](#-contributing)
   - [⭐️ Show Your Support](#️-show-your-support)
   - [🙏 Acknowledgments](#-acknowledgments)
@@ -86,6 +87,14 @@ it will install the required gemfile for running the project
 
 - GitHub: [Meryem Sanem Küçükbayram](https://github.com/meryemsanem)
 - LinkedIn: [Meryem Sanem Küçükbayram](https://www.linkedin.com/in/meryemsanemkucukbayram/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **Styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
